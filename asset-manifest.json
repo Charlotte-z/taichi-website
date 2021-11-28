@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/taichi-website/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/taichi-website/static/js/main.128e8caf.chunk.js",
+    "main.js.map": "/taichi-website/static/js/main.128e8caf.chunk.js.map",
+    "polyfills-dom.js": "/taichi-website/static/js/polyfills-dom.5d5f0825.chunk.js",
+    "polyfills-dom.js.map": "/taichi-website/static/js/polyfills-dom.5d5f0825.chunk.js.map",
+    "runtime-main.js": "/taichi-website/static/js/runtime-main.2f11aa06.js",
+    "runtime-main.js.map": "/taichi-website/static/js/runtime-main.2f11aa06.js.map",
+    "static/js/3.6c7ef20c.chunk.js": "/taichi-website/static/js/3.6c7ef20c.chunk.js",
+    "static/js/3.6c7ef20c.chunk.js.map": "/taichi-website/static/js/3.6c7ef20c.chunk.js.map",
+    "static/js/4.c2abacc2.chunk.js": "/taichi-website/static/js/4.c2abacc2.chunk.js",
+    "static/js/4.c2abacc2.chunk.js.map": "/taichi-website/static/js/4.c2abacc2.chunk.js.map",
+    "static/js/5.fd26db57.chunk.js": "/taichi-website/static/js/5.fd26db57.chunk.js",
+    "static/js/5.fd26db57.chunk.js.map": "/taichi-website/static/js/5.fd26db57.chunk.js.map",
+    "static/js/6.c4139946.chunk.js": "/taichi-website/static/js/6.c4139946.chunk.js",
+    "static/js/6.c4139946.chunk.js.map": "/taichi-website/static/js/6.c4139946.chunk.js.map",
+    "static/js/7.eaa1b9de.chunk.js": "/taichi-website/static/js/7.eaa1b9de.chunk.js",
+    "static/js/7.eaa1b9de.chunk.js.map": "/taichi-website/static/js/7.eaa1b9de.chunk.js.map",
+    "index.html": "/taichi-website/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/taichi-website/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/3.6c7ef20c.chunk.js.LICENSE.txt": "/taichi-website/static/js/3.6c7ef20c.chunk.js.LICENSE.txt",
+    "static/js/polyfills-dom.5d5f0825.chunk.js.LICENSE.txt": "/taichi-website/static/js/polyfills-dom.5d5f0825.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f11aa06.js",
+    "static/js/3.6c7ef20c.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.128e8caf.chunk.js"
+  ]
+}
